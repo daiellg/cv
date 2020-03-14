@@ -11,13 +11,13 @@ function setup() {
     canvas = createCanvas(windowWidth, windowHeight);
     canvas.position(0, 0);
     canvas.style('z-index', '-1');
-    background('#FFFAFA');
+    background('#1c1c1c');
     
 }
 
 function draw() {
-    stroke('#333333');
-    strokeWeight(3);
+    stroke('#ffffff');
+    strokeWeight(1);
     if (random(1) < 0.5) {
     line(x, y, x + spacing, y + spacing);
 }    else {
