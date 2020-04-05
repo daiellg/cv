@@ -5,26 +5,44 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=<device-width>, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Daniel Gasiorek | daiellg</title>
+    
+    <!-- CSS -->
     <link rel="stylesheet" href="css/style_about.css" />
+
     <!-- Bootstrap -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+        
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700&display=swap" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+
+    <title>Daniel Gasiorek | daiellg</title>
 </head>
 
 <body>
-    <header class="header">
-        <div class="inner-header">
-            <a href="#"> <h1>Daniel Gasiorek</h1> </a>
-        </div>
-    </header>
+    <nav class="navbar navbar-dark bg-custom">
+        <a class="navbar-brand mx-auto" href="#">Daniel Gasiorek</a>
+    </nav>
 
-    <div class="menu">
-        <nav></nav>
-    </div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-custom ">
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav mx-auto justify-content-center">
+                <li class="nav-item active border border-light col-sm-4 justify-content-center">
+                    <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item col-sm-4">
+                    <a class="nav-link" href="#">Features</a>
+                </li>
+                <li class="nav-item col-sm-4">
+                    <a class="nav-link" href="#">Pricing</a>
+                </li>
+                <li class="nav-item col-sm-4">
+                    <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
 
     <!-- Scripts -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
