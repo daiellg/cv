@@ -1,46 +1,207 @@
-<!DOCTYPE html> 
-<html lang="en"> 
-    <head> 
-        <meta charset="UTF-8"/> 
-        <meta name="viewport" content="width=<device-width>, initial-scale=1.0"/> 
-        <meta http-equiv="X-UA-Compatible" content="ie=edge"/> 
-        <!-- CSS -->         
-        <link rel="stylesheet" href="css/style_about.css"/> 
-        <!-- Bootstrap -->         
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"> 
-        <!-- Fonts -->         
-        <link href="https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700&display=swap" rel="stylesheet"/> 
-        <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet"> 
-        <title>Daniel Gasiorek | daiellg</title>         
-    </head>     
-    <body> 
-        <nav class="navbar navbar-dark bg-custom"> 
-            <a class="mx-auto navbar-brand text-center" href="#">Daniel Gasiorek</a> 
-        </nav>         
-        <nav class="navbar navbar-expand-lg navbar-dark bg-custom "> 
-            <div class="collapse navbar-collapse" id="navbarNav"> 
-                <ul class="navbar-nav mx-auto justify-content-center"> 
-                    <li class="nav-item active border border-light col-sm-4 justify-content-center"> 
-                        <a class="nav-link text-center" href="#">Home <span class="sr-only">(current)</span></a> 
-                    </li>                     
-                    <li class="nav-item col-sm-4"> 
-                        <a class="nav-link text-center" href="#">Features</a> 
-                    </li>                     
-                    <li class="nav-item col-sm-4"> 
-                        <a class="nav-link text-center" href="#">Pricing</a> 
-                    </li>                     
-                    <li class="col-sm-4 nav-item text-center"> 
-                        <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a> 
-                    </li>                     
-                </ul>                 
-            </div>             
-        </nav>         
-        <!-- Scripts -->         
-        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
-    </script>         
-        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
-    </script>         
-        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
-    </script>         
-    </body>     
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<meta http-equiv="X-UA-Compatible" content="ie=edge" />
+		<!-- CSS -->
+		<link rel="stylesheet" href="css/style_about.css" />
+		<!-- Fonts -->
+		<link
+			href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap"
+			rel="stylesheet"
+		/>
+		<link
+			href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap"
+			rel="stylesheet"
+		/>
+		<title>Daniel Gasiorek | daiellg</title>
+	</head>
+	<body>
+		<div id="left"></div>
+		<div id="right"></div>
+		<div id="top"></div>
+		<div id="bottom"></div>
+		<div class="container">
+			<header class="topnav">
+				<a id="logotype" title="logotype" href="#about">D | G</a>
+				<nav>
+					<ul>
+						<li><a href="#about">About</a></li>
+						<li><a href="#resume">Resume</a></li>
+						<li><a href="#portfolio">Portfolio</a></li>
+						<li><a href="#contact">Contact</a></li>
+						<li>|</li>
+					</ul>
+				</nav>
+			</header>
+			<div class="content">
+				<div id="about" class="about">
+					<div id="abouttext">
+						<h1 class="title">About me.</h1>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+							eiusmod tempor incididunt ut labore et dolore magna aliqua. <br />
+							<br />
+							Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+							nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+							reprehenderit in voluptate velit esse cillum dolore eu fugiat
+							nulla pariatur. Excepteur sint occaecat cupidatat non proident,
+							sunt in culpa qui officia deserunt mollit anim id est laborum.
+							<br />
+							<br />
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
+							enim ad minim veniam, quis nostrud exercitation ullamco laboris
+							nisi ut aliquip ex ea commodo consequat. <br />
+							<br />
+							Duis aute irure dolor in reprehenderit in voluptate velit esse
+							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+							cupidatat non proident, sunt in culpa qui officia deserunt mollit
+							anim id est laborum.
+						</p>
+					</div>
+					<img
+						id="profile_pic"
+						src="/Stopka mail DG/flexbox/image.jpg"
+						alt=""
+						style="height: 350px; width: auto"
+					/>
+				</div>
+				<div id="resume" class="resume">
+					<div class="resume">
+						<div class="title">
+							<h1>Experience.</h1>
+						</div>
+						<div class="table">
+							<table>
+								<tr>
+									<td>2019-2020</td>
+									<td>
+										PRODUCTION WORKER <br />
+										<br />
+										Aktiebolaget Soder & Co <br />
+										Vetlanda, Sweden <br />
+										<br />
+										Robotsvetsare - Ekenäs Mekaniska <br />
+										Montör - Viking Beds Of Sweden AB <br />
+										Lack - Pallco AB
+									</td>
+								</tr>
+								<tr>
+									<td>2016-2018</td>
+									<td>
+										SENIOR GRAPHIC DESIGNER <br />
+										<br />
+										NOVAMEDIA Innovision Sp. z o.o. <br />
+										Kalisz, Poland <br />
+										<br />
+										Acting manager of Spaig Studio, <br />
+										In-house graphic designer:<br />
+										• design and maintenance of the corporate website, <br />
+										• cooperation in design of application interface, <br />
+										• designs of catalogues and corporate visual identity,
+										<br />
+										• service of the public transportation TV system, <br />
+									</td>
+								</tr>
+								<tr>
+									<td>2015-2016</td>
+									<td>
+										GRAPHIC DESIGNER <br />
+										<br />
+										ATO Sp. z o.o. Sp.K. <br />
+										Kalisz, Poland <br />
+										<br />
+										• maintenance /operate Mutoh ValueJet 1638X Eco-Solvent
+										printers, <br />
+										• printing on foil, banners and other print media, <br />
+										• design for digital printing and preparation of designs for
+										cutting plotters, <br />
+									</td>
+								</tr>
+							</table>
+							<table>
+								<tr>
+									<td>2013-2015</td>
+									<td>
+										SELF-EMPLOYED <br />
+										<br />
+										Kaboi studio - graphic design studio <br />
+										Ostrów Wlkp., Poland <br />
+										<br />
+										Graphic design, interior visualization, 3D design. <br />
+										Cooperation with the “Stara Mleczarnia” art workshop. <br />
+									</td>
+								</tr>
+								<tr>
+									<td>2012</td>
+									<td>
+										GRAPHIC DESIGNER <br />
+										<br />
+										Tygodnik Projektor Kulturalny <br />
+										Warsaw, Poland <br />
+										<br />
+										Graphic design, interior visualization, 3D design. <br />
+										Cooperation with the “Stara Mleczarnia” art workshop. <br />
+									</td>
+								</tr>
+								<tr>
+									<td>2012</td>
+									<td>
+										GRAPHIC DESIGNER <br />
+										<br />
+										Kraina Bugu <br />
+										Warsaw, Poland <br />
+										<br />
+										Graphic design, interior visualization, 3D design. <br />
+										Cooperation with the “Stara Mleczarnia” art workshop. <br />
+									</td>
+								</tr>
+							</table>
+						</div>
+					</div>
+				</div>
+				<div id="portfolio" class="portfolio"></div>
+				<div id="contact" class="contact"></div>
+			</div>
+			<footer>
+				<a href="">© 2020 Daniel Gasiorek | @daiellg</a>
+				<ul>
+					<li>
+						<a title="Github" href=""
+							><img
+								src="links/github_icon.svg"
+								alt="github icon"
+								style="height: 16px; width: 16px"
+						/></a>
+					</li>
+					<li>
+						<a title="freeCodeCamp" href=""
+							><img
+								src="links/freecodecamp_icon.svg"
+								alt="free code camp icon"
+								style="height: 16px; width: 16px"
+						/></a>
+					</li>
+					<li>
+						<a title="Behance" href=""
+							><img
+								src="links/behance_icon.svg"
+								alt="behance icon"
+								style="height: 16px; width: 16px"
+						/></a>
+					</li>
+					<li>
+						<a title="LinkedIn" href=""
+							><img
+								src="links/linkedin_icon.svg"
+								alt="linkedin icon"
+								style="height: 16px; width: 16px"
+						/></a>
+					</li>
+				</ul>
+			</footer>
+		</div>
+	</body>
 </html>
