@@ -15,6 +15,7 @@ a {
 	color: #f5f5f5;
 	text-decoration: none;
 	display: inline-block;
+	font-family: "Inter";
 	padding: 10px 10px;
 	position: relative;
 	z-index: 10;
