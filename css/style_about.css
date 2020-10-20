@@ -20,6 +20,7 @@ body {
 	font-family: "Inter";
 	font-weight: 300;
 	font-size: 12px;
+	letter-spacing: 0.01em;
 	/* min-height: calc(96vh - 1.25vw);
 	position: absolute;
 	top: 0;
