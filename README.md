@@ -11,7 +11,7 @@ I am newbie 🧙 Software Engineer and 👾 Security Researcher
 
 #### 📜 TryHackMe Badge:
 
-![TryHackMe](<script src="https://tryhackme.com/badge/813475"></script>)
+[![TryHackMe](<script src="https://tryhackme.com/badge/813475"></script>)]
 
 --- 
 #### I want to be a web developer/ security on full-time.
