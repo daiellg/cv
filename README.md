@@ -4,28 +4,17 @@ I am newbie 🧙 Software Engineer and 👾 Security Researcher
 
 #### 📧 You can contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgasiorek)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/daiellg)
+[![StackOverFlow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11143570/daiellg)
 
 *I am open to new opportunities.*
 
+#### 📜 TryHackMe Badge:
 
-#### 🔎 You can find me on: 
-
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/daiellg)
-[![StackOverFlow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11143570/daiellg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgasiorek)
-
-
-#### 📜 Github stats:
-
-![GITHUB STARS]()
+![TryHackMe](https://tryhackme.com/badge/813475)
 
 --- 
-#### I am 🧙 Software Engineer on full-time.
-
-
-Mostly I work in Microsoft stack, but I believe that the best way is to choose technology for the specific problem.
-
-Additionally, I enjoy expanding my knowledge, because of that, I am open to learning new technologies and languages 🐱‍👓
+#### I want to be a web developer/ security on full-time.
 
 #### My current technology stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
