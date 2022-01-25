@@ -11,7 +11,7 @@ I am newbie 🧙 Software Engineer and 👾 Security Researcher
 
 #### 📜 TryHackMe Badge:
 
-[![TryHackMe](<script src="https://tryhackme.com/badge/813475"></script>)]
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/daiellg.png)
 
 --- 
 #### I want to be a web developer/ security on full-time.
@@ -26,18 +26,6 @@ I am newbie 🧙 Software Engineer and 👾 Security Researcher
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<!-- #### Technology that I am using but just less
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=flat-square&logo=Clojure&logoColor=Clojure)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) -->
 
 ---
 
