@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, my name is Daniel.
 
-I am going to be Web Developer and Security Researcher
+I'm aspiring Web Developer and Security Researcher
 
 #### 📧 You can contact me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgasiorek)
