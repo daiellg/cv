@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px"> Hello, my name is Daniel.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width:10px"> Hello, my name is Daniel.
 
 I'm aspiring Web Developer and Security Researcher
 
