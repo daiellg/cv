@@ -5,7 +5,7 @@ I'm aspiring Web Developer and Security Researcher
 #### 📧 You can contact me on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgasiorek)
-[![Mastodon](https://img.shields.io/badge/Mastodon-563ACC.svg?&style=for-the-badge&logo=mastodon&logoColor=white)](https://infosec.exchange/@daiellg)
+[![Mastodon](https://img.shields.io/badge/Mastodon-563ACC.svg?&style=for-the-badge&logo=mastodon&logoColor=white)](https://infosec.exchange/@D_G)
 
 <!-- [![StackOverFlow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11143570/daiellg) -->
 
